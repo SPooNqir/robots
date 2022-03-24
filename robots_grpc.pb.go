@@ -4,7 +4,7 @@ package robots
 
 import (
 	context "context"
-	groups "github.com/slavayssiere-spoon/groups"
+	groups "github.com/SPooNqir/groups"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

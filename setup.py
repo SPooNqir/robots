@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
     name='Robots',
-    url='https://github.com/slavayssiere-spoon/robots',
+    url='https://github.com/SPooNqir/robots',
     author='Sebastien Lavayssiere',
     author_email='sebastien.lavayssiere@spoon.ai',
     # Needed to actually package something
